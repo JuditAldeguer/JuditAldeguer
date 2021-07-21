@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JuditAldeguer
+  Hi, I’m JuditAldeguer 👋 
+
 - 👀 I’m interested in continuous learning.
-- 🌱 I’m currently learning HTML, CSS, SAAS, GLUP, GITHUB
+- 🌱 I’m currently learning Front-End Developing --> HTML, CSS, SASS, Grid, GLUP, GITHUB, JavaScript, React, Node JS, etc.
 - 💞️ I’m looking to collaborate on new projects in order to get to know more about the community and to keep to practicing. 
-- 📫 How to reach me at [aqui]<https://www.linkedin.com/in/juditaldeguer/>
+- 📫 You can reach me [here](https://www.linkedin.com/in/juditaldeguer/)
 
 
 
