@@ -8,7 +8,7 @@ I still have a long way to go but I am a fast learner.
 💞️ I’m looking to collaborate on new projects in order to get to know more about the community and to keep to practicing.  
 📫 Feel free to contact me  by [LinkedIn](https://www.linkedin.com/in/juditaldeguer/) or you can also ask bout me through our learning center [Adalab](https://adalab.es/contacto/)
 
-![image](https://user-images.githubusercontent.com/86971849/128204723-20098c6b-bbf2-410a-a963-b0b90eb8b313.png) ##Technologies
+#Technologies  
 HTML5 CSS3 Git GitHub
 
 ✨ Looking forward to hear from you ✨   
