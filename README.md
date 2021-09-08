@@ -18,7 +18,7 @@ I still have a long way to go but I am a fast learner.
 
 #### Other languages/tools I'm learning at the moment are:   
    
-Grid CSS, Flex CSS, GITHUB, GitBooks, GitHubPages, JavaScript, React, Node JS.    
+Grid CSS, Flex CSS, GITHUB, GitBooks, GitHubPages, React, Node JS.    
     
         
 ✨ Looking forward to hear from you ✨   
