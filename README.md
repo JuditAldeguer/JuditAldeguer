@@ -61,11 +61,7 @@ In this Bootcamp and I am learning:
 ---
 ### 💬 Contact:
 
-Contact me at jud.vicens@gmail.com
-
-<p align="left">
-<a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer" height="20" width="40" />Judit Aldeguer</a>
-</p>
+Contact me at jud.vicens@gmail.com or at <p align="left"> <a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer" height="20" width="40" />Judit Aldeguer</a></p>
 <br>
 <br>     
 ✨ Looking forward to hear from you ✨   
