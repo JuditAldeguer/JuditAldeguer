@@ -68,7 +68,6 @@ Contact me at jud.vicens@gmail.com
 </p>
 <br>
 <br>     
-<br> 
 ✨ Looking forward to hear from you ✨   
 Best regards,  
 
