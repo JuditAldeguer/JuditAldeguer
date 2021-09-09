@@ -14,6 +14,8 @@ In this Bootcamp and I am learning:
 - Version control with Git;
 - Creation of SPAs with React;
 - Node JS and Express.
+- Grid CSS, Flex CSS.
+- GitBooks, GitHubPages. 
 
 ---
 ## Languages and Tools:    
@@ -54,12 +56,9 @@ In this Bootcamp and I am learning:
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
 
 <br>
-<br>
-#### Other languages/tools I'm learning at the moment are:   
-   
-Grid CSS, Flex CSS, GitBooks, GitHubPages.    
----
+<br> 
 
+---
 ### 💬 Contact:
 
 Contact me at jud.vicens@gmail.com
