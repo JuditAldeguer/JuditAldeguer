@@ -1,16 +1,20 @@
-## Hi, I’m *Judit Aldeguer*👋  
+## Hi there, my name is *Judit* 👋  
 
-I am a Junior Front-End Development and I hope you enjoy my firsts projects! 👀  
-I still have a long way to go but I am a fast learner.
+I am a **Junior Frontend Developer** who discovered programming thanks to my surroundings, and fell in love with the community, the creativity and the possibility of making an impact on society.
+
+My previous work experiences have made me a **very adaptable person who enjoys continuous learning**.
+
+My hobbies include **taking care of my people**👩‍👦‍👦, **nature**🌱, **sports**🏃‍♀️ and **traveling**✈️.
+
+I consider myself a **hard-working** and **fast-learner person**, who **enjoys challenges**.
 
 
-💞️ I’m looking to collaborate on new projects in order to get to know more about the community and to keep to practicing.  
-📫 Feel free to contact me  by [LinkedIn](https://www.linkedin.com/in/juditaldeguer/) or you can also ask bout me through our learning center [Adalab](https://adalab.es/contacto/)
-   
+I’m looking to collaborate on new projects in order to get to know more about the community and to keep to practicing.  
+You can know more about me through [LinkedIn](https://www.linkedin.com/in/juditaldeguer/) or through my learning center [Adalab](https://adalab.es/contacto/)
 
-In this Bootcamp and I am learning:
+In this Bootcamp I learned:
 - HTML5, CSS3, Sass, Bootstrap;
-- JavaScript (with ReactJS) and third-party web services (APIs);
+- Manage APIs with JavaScript and React;
 - Version control with Git;
 - Creation of SPAs with React;
 - Node JS and Express.
@@ -18,7 +22,7 @@ In this Bootcamp and I am learning:
 - GitBooks, GitHubPages. 
 
 ---
-## Languages and Tools:    
+## Technologies:    
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,7 +45,7 @@ In this Bootcamp and I am learning:
 <br>
 <br>
 
-##### Tools
+## Tools
 
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
@@ -59,12 +63,8 @@ In this Bootcamp and I am learning:
 <br> 
 
 ---
-### 💬 Contact:
+### How to reach me
 
-Contact me at jud.vicens@gmail.com or at <a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer" height="20" width="40" />Judit Aldeguer</a>
-<br>
-<br>     
-✨ Looking forward to hear from you ✨   
-Best regards,  
-
-*Judit Aldeguer* 
+<a href="mailto:jud.vicens@gmail.com" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/281/281769.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="judit aldeguer mail" height="20" width="40" /></a>
+<a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer LinkedIn" height="20" width="40" /></a>
+<a href="https://twitter.com/@juditaldeguer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juditaldeguer" height="30" width="40" /></a>
