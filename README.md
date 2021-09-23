@@ -6,10 +6,11 @@ My previous work experiences have made me a **very adaptable person who enjoys c
 
 My hobbies include **taking care of my people**👩‍👦‍👦, **nature**🌱, **sports**🏃‍♀️ and **traveling**✈️.
 
-I consider myself a **hard-working** and **fast-learner person**, who **enjoys challenges**.
+I consider myself a **hard-working** and **fast-learner person**, who **enjoys challenges**.  
+  
+  <br/>
 
-
-I´ve just finished a Bootcamp in [Adalab](https://adalab.es/contacto/) and learned:
+  I´ve just finished a Bootcamp in [Adalab](https://adalab.es/contacto/) and learned:
 - HTML5, CSS3, Sass, Bootstrap;
 - Manage APIs with JavaScript and React;
 - Version control with Git;
