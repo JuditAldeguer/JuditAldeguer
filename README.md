@@ -9,10 +9,7 @@ My hobbies include **taking care of my people**👩‍👦‍👦, **nature**�
 I consider myself a **hard-working** and **fast-learner person**, who **enjoys challenges**.
 
 
-I’m looking to collaborate on new projects in order to get to know more about the community and to keep to practicing.  
-You can know more about me through [LinkedIn](https://www.linkedin.com/in/juditaldeguer/) or through my learning center [Adalab](https://adalab.es/contacto/)
-
-In this Bootcamp I learned:
+I´ve just finished a Bootcamp in [Adalab](https://adalab.es/contacto/) and learned:
 - HTML5, CSS3, Sass, Bootstrap;
 - Manage APIs with JavaScript and React;
 - Version control with Git;
