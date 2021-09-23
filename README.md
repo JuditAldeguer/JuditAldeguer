@@ -1,6 +1,6 @@
 ## Hi, I’m *Judit Aldeguer*👋  
 
-I am currently learning Front-End Development and I hope you enjoy my firsts projects! 👀  
+I am a Junior Front-End Development and I hope you enjoy my firsts projects! 👀  
 I still have a long way to go but I am a fast learner.
 
 
