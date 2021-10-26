@@ -1,4 +1,4 @@
-## Hi there, my name is *Judit* 👋  
+## Hi there, my name is [*Judit*](https://juditaldeguer.github.io/portfolio/) 👋  
 
 I am a **Junior Frontend Developer** who discovered programming thanks to my surroundings, and fell in love with the community, the creativity and the possibility of making an impact on society.
 
