@@ -12,8 +12,9 @@ I consider myself a **hard-working** and **fast-learner person**, who **enjoys c
 
   I´ve just finished a Bootcamp in [Adalab](https://adalab.es/contacto/) and learned:
 - HTML5, CSS3, Sass, Bootstrap;
-- Manage APIs with JavaScript and React;
+- Manage APIs with JavaScript, Typescript and React;
 - Version control with Git;
+- Test Driven Development;
 - Creation of SPAs with React;
 - Node JS and Express.
 - Grid CSS, Flex CSS.
