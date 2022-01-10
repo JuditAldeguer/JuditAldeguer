@@ -28,6 +28,8 @@ I consider myself a **hard-working** and **fast-learner person**, who **enjoys c
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="TypeScript" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvidabytes.com%2Fque-es-typescript%2F&psig=AOvVaw0a_QROt6Fs_7oCj0PzcYs4&ust=1641925302490000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi1vcnmp_UCFQAAAAAdAAAAABAD" />
+
 <img align="left" alt="React" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  />
 
 <img align="left" alt="Gulp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
