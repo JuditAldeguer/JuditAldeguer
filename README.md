@@ -66,6 +66,5 @@ I consider myself a **hard-working** and **fast-learner person**, who **enjoys c
 ---
 ### How to reach me
 
-<a href="mailto:jud.vicens@gmail.com" target="blank"><img align="center" src="https://img.flaticon.com/icons/png/512/281/281769.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" alt="judit aldeguer mail" height="20" width="40" /></a>
 <a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer LinkedIn" height="20" width="40" /></a>
 <a href="https://twitter.com/@juditaldeguer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juditaldeguer" height="30" width="40" /></a>
