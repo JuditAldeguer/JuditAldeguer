@@ -1,6 +1,6 @@
-## Hi there, my name is [*Judit*](https://juditaldeguer.github.io/portfolio/) 👋  
+## Hi there, my name is *Judit* 👋  
 
-I am a **Junior Frontend Developer** who discovered programming thanks to my surroundings, and fell in love with the community, the creativity and the possibility of making an impact on society.
+I am a **Data Engineer** who discovered programming thanks to my surroundings, and fell in love with the community, the creativity and the possibility of making an impact on society.
 
 My previous work experiences have made me a **very adaptable person who enjoys continuous learning**.
 
@@ -30,3 +30,4 @@ I see work as one part of a bigger life, and I aim to contribute without losing 
 
 <a href="https://www.linkedin.com/in/juditaldeguer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="judit aldeguer LinkedIn" height="20" width="40" /></a>
 <!-- <a href="https://twitter.com/@juditaldeguer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juditaldeguer" height="30" width="40" /></a> -->
+<!-- [*old porfolio from Web Development*](https://juditaldeguer.github.io/portfolio/) -->
